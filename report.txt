@@ -1,0 +1,4 @@
+=== LOG ANALYSIS REPORT ===
+Total INFO lines: 2
+Total ERROR lines: 3
+Most suspicious IP: 192.168.1.2 (2 failed attempts)
