@@ -1,0 +1,10 @@
+=== SECURITY LOG ANALYSIS REPORT ===
+
+Total INFO: 3
+Total WARNING: 2
+Total ERROR: 7
+
+=== TOP 3 SUSPICIOUS IPs ===
+192.168.1.2 — 3 failed attempts — Risk: HIGH
+192.168.1.4 — 3 failed attempts — Risk: HIGH
+192.168.1.6 — 1 failed attempts — Risk: LOW
